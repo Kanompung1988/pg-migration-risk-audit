@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">POSTGRESQL  /  MIGRATION GUARD</title><desc id="desc">Synthetic lock and data loss review with line-based findings</desc>
+<defs><linearGradient id="background" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0A1929"/><stop offset="1" stop-color="#122B40"/></linearGradient><linearGradient id="accent" x1="0" x2="1"><stop stop-color="#00D9FF"/><stop offset="1" stop-color="#00FFA3"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="14"/></filter></defs>
+<rect width="1280" height="420" rx="24" fill="url(#background)"/>
+<path d="M0 358 Q 420 283 760 360 T1280 310" fill="none" stroke="#00D9FF" opacity=".16" stroke-width="2"/>
+<text x="58" y="64" fill="#00FFA3" font-family="system-ui,Arial,sans-serif" font-weight="700" font-size="18" letter-spacing="4">AREAZERO / OPEN SOURCE LAB</text>
+<text x="58" y="164" fill="#F3F9FC" font-family="system-ui,Arial,sans-serif" font-size="51" font-weight="750">POSTGRESQL  /  MIGRATION GUARD</text>
+<text x="58" y="225" fill="#A8C0D2" font-family="system-ui,Arial,sans-serif" font-size="24">Safer schema changes start with a reviewable diff.</text>
+<rect x="58" y="269" width="350" height="2" rx="1" fill="url(#accent)"/>
+<text x="58" y="314" fill="#78D9E8" font-family="monospace" font-size="17">OFFLINE  •  READ ONLY  •  TESTED</text>
+
+<rect x="873" y="100" width="315" height="232" rx="16" fill="#102E42" stroke="#00D9FF" opacity=".92"/>
+<rect x="901" y="130" width="255" height="40" rx="6" fill="#00D9FF" opacity=".1"/>
+<text x="915" y="158" fill="#7CE6F4" font-family="monospace" font-size="19">migration_027.sql</text>
+<text x="910" y="213" fill="#FFB17A" font-family="monospace" font-size="17">! DROP TABLE</text>
+<text x="910" y="249" fill="#FFD9A7" font-family="monospace" font-size="17">! ALTER COLUMN</text>
+<text x="910" y="285" fill="#75E6C2" font-family="monospace" font-size="17">✓ REVIEWED</text>
+</svg>
